@@ -1,0 +1,14 @@
+body {
+  padding: 10px;
+}
+
+.title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#messages {
+  width: 50%;
+  min-height: 20vh;
+  border: 1px solid black;
+}
