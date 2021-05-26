@@ -1,0 +1,26 @@
+body {
+  padding: 10px;
+}
+
+.title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#messages {
+  width: 30%;
+  min-height: 20vh;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+.tableRow {
+  border-bottom: 1px solid black;
+}
+
+.tableCell {
+  font-size: 18px;
+  padding-left: 20px;
+}
